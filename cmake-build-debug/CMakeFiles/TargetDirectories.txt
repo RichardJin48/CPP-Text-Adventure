@@ -1,0 +1,3 @@
+C:/Users/Jin Zichao/Desktop/CaCPP/202018010109_CaCPP_Coursework/cmake-build-debug/CMakeFiles/textadv.dir
+C:/Users/Jin Zichao/Desktop/CaCPP/202018010109_CaCPP_Coursework/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jin Zichao/Desktop/CaCPP/202018010109_CaCPP_Coursework/cmake-build-debug/CMakeFiles/rebuild_cache.dir
